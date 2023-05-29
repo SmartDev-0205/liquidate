@@ -41,12 +41,15 @@ module.exports = {
       mobile: "992px",
       laptop: "1024px",
       desktop: "1280px",
-    },
+    },  
 
     extend: {
       colors: {
-        bg: "#090721",
-        text: "#5F70A0",
+        header:"#0F131F",
+        btn:"#88B8D8",
+        btnHover:"#add",
+        bg: "#F5F5F5",
+        link: "#88B8D8",
         white: "#ffffff",
         primary: "#5137EE",
         foreground: "#232358",
